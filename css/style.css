@@ -1,0 +1,10 @@
+ .carousel-img {
+    height: 600px; 
+    object-fit: cover;
+}
+
+.text-slide-color {
+    color: #5aed47;
+    font-style: italic;
+    font-size: xx-large;
+}
